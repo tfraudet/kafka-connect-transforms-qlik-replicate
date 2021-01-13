@@ -265,4 +265,4 @@ The changelog is already generated via [release drafter](https://github.com/rele
 If everything is ok, publish the release. The artifact will be automatically build and attached to the release.
  
 # License
-Kafka Connect SMT for Qlik Replicate is released under the MIT License. See the bundled [LICENSE](LICENSE) file for details. 
+Kafka Connect SMT for Qlik Replicate is released under the Apache License 2.0. See the bundled [LICENSE](LICENSE) file for details. 
